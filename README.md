@@ -5,8 +5,10 @@ My Name is Tong, and I am an inspired Full Stack Developer looking to start my p
 I've always been fascinated on how technology runs behind the scene, and how all the components stack up on each other.
 My life revolves around a computer inside and out. So all of my experience were hands-on inside of my own little workshop.
 
-
+📫 How to reach me:
 ⚡ Fun Fact: 
+
+**Languages & Tools:**
 
 
 <!--
