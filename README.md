@@ -1,9 +1,7 @@
 <h1 align="center">Tong Xiong</h1>
-He is a full stack developer hungry for self improvement and success, with a passion to impact millions through his work and expertise.
+I am a full stack developer hungry for self improvement and success, with a passion to impact millions through my work and expertise.
 
-He would thrive in an environment that promotes personal and professional growth.
-
-Eager to break into the workforce, he is actively looking for the next opportunity to apply his skills in HTML/CSS, JavaScript, React/Redux.
+I am also actively looking for the next opportunity to apply my skills in HTML/CSS, JavaScript, and React/Redux.
 
 📫 How to reach me: tongxiong.9901@gmail.com
 
