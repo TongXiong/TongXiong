@@ -5,7 +5,7 @@ I am also actively looking for the next opportunity to apply my skills in HTML/C
 
 📫 How to reach me: tongxiong.9901@gmail.com
 
-📄 More about my experiences! [Resume](https://docs.google.com/document/d/10pl7PJ4uB9oCozGcA-wGKBnMTbQNwc9ZuD5KhqaB_4M/edit?usp=drive_link) 
+📄 More about my experiences! [Resume](https://drive.google.com/file/d/1cYO7v06DcGSiC8pb7k2__vsyMZ9X3jA5/view?usp=drive_link) 
 
 ⚡ Fun Fact: Built multiple working computers in my backyard!
 
