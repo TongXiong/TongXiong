@@ -7,7 +7,7 @@ I am also actively looking for the next opportunity to apply my skills in HTML/C
 
 📄 More about my professional experiences!
 [Tech Resume](https://drive.google.com/file/d/1p2cpNBt32CkUID4_CRkxDvPVKC75UnjI/view?usp=drive_link)
-[Overall Resume](https://drive.google.com/file/d/1cYO7v06DcGSiC8pb7k2__vsyMZ9X3jA5/view?usp=drive_link)
+[Overall Resume](https://drive.google.com/file/d/1PHGGXLWX8qClXG_cQLw-aIIm1HgRljlg/view?usp=drive_link)
 
 ⚡ Fun Fact: I meditate 2-3 times a week for fun!
 
