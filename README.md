@@ -1,5 +1,5 @@
 <h1 align="center">Tong Xiong</h1>
-I am a full stack developer hungry for self improvement and success, with a passion to impact millions through my work and expertise.
+I am an aspiring full stack developer hungry for self improvement and success, with a passion to impact millions through my work and expertise.
 
 I am also actively looking for the next opportunity to apply my skills in HTML/CSS, JavaScript, and React/Redux.
 
