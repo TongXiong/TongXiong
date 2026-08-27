@@ -6,8 +6,8 @@ I am also actively looking for the next opportunity to apply my skills in HTML/C
 📫 How to reach me: tongxiong.9901@gmail.com
 
 📄 More about my professional experiences!
-[Tech Resume](https://drive.google.com/file/d/1p2cpNBt32CkUID4_CRkxDvPVKC75UnjI/view?usp=drive_link)
-[Overall Resume](https://drive.google.com/file/d/1PHGGXLWX8qClXG_cQLw-aIIm1HgRljlg/view?usp=drive_link)
+[Tech Resume](https://drive.google.com/file/d/1UDf9ZBvOcKuB4dPcew0cO1XbC9xZ3JJO/view?usp=share_link)
+[Overall Resume](https://drive.google.com/file/d/1LBcCFwSsA-Ztz7uMyn2MZRnlISft6qqP/view?usp=share_link)
 
 ⚡ Fun Fact: I meditate 2-3 times a week for fun!
 
